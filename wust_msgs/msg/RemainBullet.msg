@@ -1,0 +1,2 @@
+bool shooting_recommendation
+uint16 remain_bullet
